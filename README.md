@@ -12,7 +12,7 @@ Generate new image by convolution of image with suitable kernel.
 ### Noise Removal
 
 - Gaussian smoothing  
-- Median Smoothing
+- Median smoothing
 
 ## Frequency Domain
 
